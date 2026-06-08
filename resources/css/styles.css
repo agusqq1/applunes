@@ -11,7 +11,11 @@ main{
     min-height:calc(100dvh - 340px);
     background-color: red;
 }
-
+.buscador{
+    height: 60px;
+    width: 80px;
+    background-color: white;
+}
 
 
 
